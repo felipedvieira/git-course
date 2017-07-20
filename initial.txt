@@ -1,3 +1,5 @@
 #Git course
 
 Esse é o curso inicial de git.
+
+Venho acrescentar mais informacoes sobre o curso ademais.
